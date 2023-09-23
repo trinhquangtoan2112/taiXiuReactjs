@@ -1,0 +1,18 @@
+ @font-face {
+    font-family: 'fongame';
+    src: url("../Assert/font/Pony.ttf");
+ }
+
+ .game{
+    font-family: fongame;
+    background: url("../Assert/img/bgGame.png");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+   
+ }
+
+ .xucSac img{
+     width: 50px;
+     height: 50px;
+ }
